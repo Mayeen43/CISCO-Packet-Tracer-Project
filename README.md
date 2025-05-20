@@ -87,12 +87,6 @@ The network is divided into distinct functional areas with interconnecting route
 
 ## 🧑‍💻 Author
 
-Created by [Your Name]  
-[Your Contact or GitHub Profile Link]
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
+Created by MD MAYEEN UDDIN  
+mdmayeenr98R@gmail.com
 
